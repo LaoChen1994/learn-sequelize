@@ -1,0 +1,16 @@
+{
+  "name": "sequlize-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
